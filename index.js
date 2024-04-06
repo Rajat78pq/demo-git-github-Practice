@@ -6,4 +6,4 @@ console.log(name1);
 function callFriend(){
     return name1;
 }
-
+console.log("Olla");
