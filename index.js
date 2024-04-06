@@ -1,4 +1,9 @@
 const age = 20;
-let name = "Rajat";
+let name1 = "Rajat";
 
-console.log(name);
+console.log(name1);
+
+function callFriend(){
+    return name1;
+}
+
